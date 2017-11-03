@@ -1,0 +1,23 @@
+<?php
+$config['num_links'] = 2;
+$config['use_page_numbers'] = TRUE;
+$config['page_query_string'] = FALSE;
+$config['full_tag_open'] = '';
+$config['full_tag_close'] = '';
+$config['first_link'] = 'Trang đầu';
+$config['first_tag_open'] = '<div>';
+$config['first_tag_close'] = '</div>';
+$config['last_link'] = 'Trang cuối';
+$config['last_tag_open'] = '';
+$config['last_tag_close'] = '';
+$config['next_link'] = '&gt;';
+$config['next_tag_open'] = '';
+$config['next_tag_close'] = '';
+$config['prev_link'] = '&lt;';
+$config['prev_tag_open'] = '';
+$config['prev_tag_close'] = '';
+$config['cur_tag_open'] = '<a class="active">';
+$config['cur_tag_close'] = '</a>';
+$config['num_tag_open'] = '<span>';
+$config['num_tag_close'] = '</span>';
+$config['display_pages'] = TRUE;
